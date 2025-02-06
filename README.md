@@ -101,7 +101,7 @@ For any questions or inquiries, please contact us at:
 
 ## Attribution
 <p align="center">
- <img src="GDG On Campus Gray.png" alt="GDG On Campus Logo" width="1000" height="100">
+ <img src= "GDG On Campus  Gray.png" alt="GDG On Campus Logo" width="400" height="100">
 
 </p>
 
