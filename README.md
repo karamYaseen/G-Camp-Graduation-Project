@@ -103,7 +103,7 @@ For any questions or inquiries, please contact us at:
 <p align="center">
  <img src= "unnamed.jpg" alt="Faculty of Engineering Zagazig universty" width="150" height="150">
 
- <img src= "GDG On Campus  Gray.png" alt="GDG On Campus Logo" width="400" height="100">
+ <img src= "GDG On Campus  Gray.png" alt="GDG On Campus Logo" width="350" height="100">
 
  <img src= "download.png" alt="ITI Logo" width="200" height="200">
 </p>
@@ -112,6 +112,7 @@ For any questions or inquiries, please contact us at:
 This event is organized by GDG On Campus Zagazig, a non-profit organization focused on developing youth in various fields personally and technically through academic programs, projects, and events. You can find more information about GDG Zagazig at [Google.DSC.Zagazig](https://www.facebook.com/Google.DSC.Zagazig) |*-*-*-*| [GDG Developers Site](https://gdg.community.dev/gdg-on-campus-zagazig-university-zagazig-egypt/)
 
 ##
+
 # 🎓 Graduation Project Bootcamp - Rulebook
 
 ## 📌 مقدمة
@@ -153,11 +154,21 @@ This event is organized by GDG On Campus Zagazig, a non-profit organization focu
 ---
 
 ### 4️⃣ E-commerce Programming 🛒  
-- يشمل التراكات التالية:  
-  - **Frontend Development**  
-  - **Backend (PHP)**  
-  - **Flutter Development**  
-  - **UI/UX Design**  
+- يشمل التراكات التالية:
+<p align="left">
+  <strong>Frontend Development</strong>
+</p>
+<p align="left">
+  <strong>Backend (PHP)</strong>
+</p>
+<p align="left">
+  <strong>Flutter Development</strong>
+</p>
+<p align="left">
+  <strong>UI/UX Design</strong>
+</p>
+
+  
 - **التقييم بناءً على:**  
   - جودة التصميم والتطوير  
   - تجربة المستخدم  
