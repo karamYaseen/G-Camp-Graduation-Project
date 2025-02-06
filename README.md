@@ -95,8 +95,14 @@ Projects will be judged based on the following criteria:
 
 ## Contact
 For any questions or inquiries, please contact us at:
-- Email: [Karamayaseen00@gmail.com]
-- Phone: [01097102388]
+
+  <a href="mailto:karamayaseen00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+    <a href="https://wa.me/qr/UF2OV6ZRZSCYN1/">
+<img src="https://img.shields.io/badge/Whatsapp-d20962?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" />
+  </a>
+
 ---
 
 ## Attribution
