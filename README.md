@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-    <img src="GDG On Campus Gray.png"
+    <img src=100x150.jpg
       alt="G CAMP Competitions" 
-        width="400" 
-        height="200" 
+        width="1000" 
+        height="300" 
         style="display: block; margin: 0 auto" 
      >
 </p>
@@ -95,16 +95,15 @@ Projects will be judged based on the following criteria:
 
 ## Contact
 For any questions or inquiries, please contact us at:
-- Email: [example@example.com]
-- Phone: [Phone Number]
-- Social Media: [Links to Social Media]
-
+- Email: [Karamayaseen00@gmail.com]
+- Phone: [01097102388]
 ---
 
 ## Attribution
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59095993/218258481-82b37fcf-10ad-4a2f-99d0-555e5610b6f2.png" width=100 height=100 alt="STP logo">
+ <img src="GDG On Campus Gray.png" alt="GDG On Campus Logo" width="1000" height="100">
+
 </p>
 
 
-This event is organized by Step Towards Progress (STP), a non-profit organization focused on developing youth in various fields personally and technically through academic programs, projects, and events. You can find more information about STP at [https://stp-org.com](https://stp-org.com).
+This event is organized by GDG On Campus Zagazig, a non-profit organization focused on developing youth in various fields personally and technically through academic programs, projects, and events. You can find more information about STP at [Google.DSC.Zagazig](https://www.facebook.com/Google.DSC.Zagazig) |*-*| [Bevy Wepsite](https://gdg.community.dev/gdg-on-campus-zagazig-university-zagazig-egypt/)
