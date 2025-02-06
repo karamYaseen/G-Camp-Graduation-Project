@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Apolo151/machathon5.00/assets/110634473/90477a3a-5e30-4b0c-a62b-65722f0271ca"
+    <img src="GDG On Campus Gray.png"
       alt="G CAMP Competitions" 
         width="400" 
         height="200" 
