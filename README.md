@@ -2,7 +2,7 @@
 
 <p align="center">
   <a style="text-decoration:none" >
-    <img src="https://img.shields.io/badge/Tracks-4-blue" alt="Tracks" />
+    <img src="https://img.shields.io/badge/Tracks-7-blue" alt="Tracks" />
   </a>
   <a style="text-decoration:none" >
     <img src="https://img.shields.io/badge/Duration-3%20Days-green" alt="Duration" />
