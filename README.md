@@ -106,4 +106,4 @@ For any questions or inquiries, please contact us at:
 </p>
 
 
-This event is organized by GDG On Campus Zagazig, a non-profit organization focused on developing youth in various fields personally and technically through academic programs, projects, and events. You can find more information about STP at [Google.DSC.Zagazig](https://www.facebook.com/Google.DSC.Zagazig) |*-*| [Bevy Wepsite](https://gdg.community.dev/gdg-on-campus-zagazig-university-zagazig-egypt/)
+This event is organized by GDG On Campus Zagazig, a non-profit organization focused on developing youth in various fields personally and technically through academic programs, projects, and events. You can find more information about GDG Zagazig at [Google.DSC.Zagazig](https://www.facebook.com/Google.DSC.Zagazig) |*-*-*-*| [GDG Developers Site](https://gdg.community.dev/gdg-on-campus-zagazig-university-zagazig-egypt/)
