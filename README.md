@@ -100,9 +100,14 @@ For any questions or inquiries, please contact us at:
 ---
 
 ## Attribution
+<p align="left">
+ <img src= "unnamed.jpg" alt="Faculty of Engineering Zagazig universty" width="150" height="150">
+</p>
 <p align="center">
  <img src= "GDG On Campus  Gray.png" alt="GDG On Campus Logo" width="400" height="100">
-
+</p>
+<p align="Right">
+ <img src= "download.png" alt="ITI Logo" width="200" height="100">
 </p>
 
 
