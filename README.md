@@ -80,9 +80,25 @@ Projects will be judged based on the following criteria:
 ---
 
 ## Prizes
-- 1st Place: Cash Prize + Certified Certificate + Advanced Courses from Reputed Academies.
-- 2nd Place: Cash Prize + Certified Certificate.
-- 3rd Place: Certified Certificate.
+
+### 1. Robotics
+- 1st Place: Full Robotics Kit + Special Certificate.
+
+### 2. Competitive Programming
+- 1st Place: Course (Basics of Programming) from a Special Academy + Special Certificate.
+- 2nd Place: Course (Basics of Programming) from a Special Academy + Special Certificate.
+- 3rd Place: Course (Basics of Programming) from a Special Academy + Special Certificate.
+
+### 3. E-commerce Programming
+- 1st Place: Advanced Courses (Flutter, Backend, Frontend, UI/UX) from a Reputed Academy + Special Certificate.
+
+### 4. Data Science
+- Winning Teams: Priority to Advance to the Next Stage (Details to be Announced Later).
+
+### Additional Prizes
+- All Winners:  
+  - Advancement Opportunity: Winning teams will have the chance to advance to the filtration stage, which will be part of an upcoming hackathon with significant cash prizes. More details will be announced soon on our official page.
+  - Special Certificates: The 1st place winners in each track will receive unique certificates to honor their achievements.
 
 ---
 
@@ -187,12 +203,6 @@ This event is organized by GDG On Campus Zagazig, a non-profit organization focu
 - كل **تيم يعرض مشروعه بشكل فردي** أمام اللجنة.  
 - يتم تحديد الفائزين بناءً على المعايير المحددة لكل تراك.  
 
-🏆 **أفضل 3 مراكز في كل مسابقة سيحصلون على:**  
-- مكافآت مادية 💰  
-- شهادات معتمدة 📜  
-- كورسات قوية من أكاديميات متخصصة 🎓  
-
----
 
 ## 📜 القواعد العامة  
 ✔️ الالتزام بالأخلاقيات الأكاديمية والعمل الجماعي.  
